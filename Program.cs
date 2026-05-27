@@ -21,8 +21,8 @@ using PicoGKExamples;
 
 // This simple call runs PicoGK with the specified task and shows the PicoGK viewer
 
-Library.Go( 0.5f,                   // size of each voxel in millimeters
-            BooleanShowCase.Task);       // the task you want to execute
+Library.Go( 0.4f,                        // size of each voxel in millimeters
+            CopperHeatExchanger.Task);   // copper Gyroid heat exchanger (1 kW)
 
 // After you close the viewer, the application exits.
 
