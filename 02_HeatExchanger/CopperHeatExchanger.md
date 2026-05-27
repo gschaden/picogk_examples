@@ -19,6 +19,8 @@ ok ich brauch auch noch anschlüsse
 
 # documentation
 
+![Schnitt](image.png "Title")
+
 ## Koordinatensystem
 
 Der Ursprung liegt an der vorderen unteren linken Ecke des inneren Gyroid-Volumens.  
